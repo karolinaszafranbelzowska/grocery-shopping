@@ -1,1 +1,3 @@
 # grocery-shopping
+
+https://www.researchgate.net/publication/332464628_Factors_that_affect_the_choice_of_Consumers_in_selecting_Retail_Store_for_Grocery_Shopping
