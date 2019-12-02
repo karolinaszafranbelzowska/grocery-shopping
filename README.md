@@ -23,3 +23,5 @@
 8. http://organictrust.ie/info/10_reasons_for_choosing_to_buy_organic_food
 
 9. https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/
+
+10. https://towardsdatascience.com/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae
