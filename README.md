@@ -17,3 +17,6 @@
 5. https://www.eatthis.com/top-food-trends-2020/
 
 6. https://web.microsoftstream.com/video/20c35691-a985-4379-bfa3-a63828360881?list=user&userId=20b32719-41e8-4560-9f7f-c83ba751229c
+
+7. https://www.treehugger.com/green-food/why-do-people-buy-organic.html
+
