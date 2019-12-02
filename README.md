@@ -20,3 +20,6 @@
 
 7. https://www.treehugger.com/green-food/why-do-people-buy-organic.html
 
+8. http://organictrust.ie/info/10_reasons_for_choosing_to_buy_organic_food
+
+9. https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/
