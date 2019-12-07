@@ -25,3 +25,7 @@
 9. https://www.geeksforgeeks.org/different-ways-to-create-pandas-dataframe/
 
 10. https://towardsdatascience.com/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae
+
+11. https://www.researchgate.net/publication/239781750_Age_gender_and_income_Do_they_really_moderate_online_shopping_behaviour
+
+12. https://ec.europa.eu/eurostat/statistics-explained/index.php/E-commerce_statistics_for_individuals
