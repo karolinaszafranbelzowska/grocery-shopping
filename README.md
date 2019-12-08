@@ -29,3 +29,5 @@
 11. https://www.researchgate.net/publication/239781750_Age_gender_and_income_Do_they_really_moderate_online_shopping_behaviour
 
 12. https://ec.europa.eu/eurostat/statistics-explained/index.php/E-commerce_statistics_for_individuals
+
+13. https://pynative.com/python-get-random-float-numbers/
