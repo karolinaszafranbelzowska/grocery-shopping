@@ -32,4 +32,6 @@
 
 13. https://pynative.com/python-get-random-float-numbers/
 
-14. https://www.geeksforgeeks.org/python-statistics-median/
+14. https://www.geeksforgeeks.org/numpy-median-in-python/
+
+15. https://www.geeksforgeeks.org/python-statistics-median/
