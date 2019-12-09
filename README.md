@@ -31,3 +31,5 @@
 12. https://ec.europa.eu/eurostat/statistics-explained/index.php/E-commerce_statistics_for_individuals
 
 13. https://pynative.com/python-get-random-float-numbers/
+
+14. https://www.geeksforgeeks.org/python-statistics-median/
