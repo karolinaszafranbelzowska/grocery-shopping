@@ -33,5 +33,6 @@
 13. https://pynative.com/python-get-random-float-numbers/
 
 14. https://www.geeksforgeeks.org/numpy-median-in-python/
+    https://stackoverflow.com/questions/12207833/how-to-get-the-max-value-out-of-a-random-list-of-numbers-python
 
 15. https://www.geeksforgeeks.org/python-statistics-median/
