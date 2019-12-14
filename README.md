@@ -42,3 +42,5 @@
 17. https://www.citizensinformation.ie/en/justice/criminal_law/criminal_offences/alcohol_and_the_law.html
 
 18.https://www.irishtimes.com/news/bill-will-raise-to-18-minimum-age-to-purchase-tobacco-1.253232
+
+19. https://www.thesun.co.uk/news/9518161/national-lottery-age-limit-could-rise-from-16/
