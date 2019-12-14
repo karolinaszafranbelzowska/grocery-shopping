@@ -46,3 +46,5 @@
 19. https://www.thesun.co.uk/news/9518161/national-lottery-age-limit-could-rise-from-16/
 
 20. https://plot.ly/python/histograms/
+
+21. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
