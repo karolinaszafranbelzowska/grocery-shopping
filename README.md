@@ -40,3 +40,5 @@
 16. https://www.citizensinformation.ie/en/reference/checklists/checklist_at_what_age_can_i.html
 
 17. https://www.citizensinformation.ie/en/justice/criminal_law/criminal_offences/alcohol_and_the_law.html
+
+18.https://www.irishtimes.com/news/bill-will-raise-to-18-minimum-age-to-purchase-tobacco-1.253232
