@@ -1,7 +1,7 @@
 # 'grocery-shopping'
 
 # This repository contains the Project 2019 for Module 'Programming for Data Analysis'.
-# Karolina Szafran-Belzowska, 2019-12-13
+# Karolina Szafran-Belzowska, 2019-12-15
 
 
 ### References: 
@@ -46,3 +46,13 @@
 19. https://www.thesun.co.uk/news/9518161/national-lottery-age-limit-could-rise-from-16/
 
 20. https://plot.ly/python/histograms/
+
+21. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
+
+22. https://www.tastetomorrow.com/inspiration/how-to-benefit-from-the-instagrammable-food-trend/381/
+
+23. https://www.natureswayfoods.com/discover/fresh-results/food-to-go/
+
+24. https://www.trendhunter.com/slideshow/chilled-snack
+
+25. https://www.cbsnews.com/news/diet-trends-for-2019-what-to-try-what-to-skip/
