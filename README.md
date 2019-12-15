@@ -54,3 +54,5 @@
 23. https://www.natureswayfoods.com/discover/fresh-results/food-to-go/
 
 24. https://www.trendhunter.com/slideshow/chilled-snack
+
+25. https://www.cbsnews.com/news/diet-trends-for-2019-what-to-try-what-to-skip/
