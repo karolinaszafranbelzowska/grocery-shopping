@@ -5,7 +5,7 @@
 
 
 ### 
-This repository contains my assessment for the module "Fundamentals of Data Analysis" at GMIT. See here for the instructions : https://github.com/ianmcloughlin/project-2019-fundda/raw/master/project.pdf
+This repository contains my project for the module "Programming for Data Analysis" at GMIT. See here for the instructions : https://web.microsoftstream.com/video/4f0c8c66-f2db-4fd1-8573-f065caccfa58
 
 ### References: 
 
