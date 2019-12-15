@@ -4,6 +4,9 @@
 # Karolina Szafran-Belzowska, 2019-12-15
 
 
+### 
+This repository contains my assessment for the module "Fundamentals of Data Analysis" at GMIT. See here for the instructions : https://github.com/ianmcloughlin/project-2019-fundda/raw/master/project.pdf
+
 ### References: 
 
 1. https://www.researchgate.net/publication/332464628_Factors_that_affect_the_choice_of_Consumers_in_selecting_Retail_Store_for_Grocery_Shopping
