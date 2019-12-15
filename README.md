@@ -17,6 +17,17 @@ This will launch a new browser window (or a new tab) showing the Notebook Dashbo
 
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
 
+### libraries used in my project
+```
+import random
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+import statistics 
+import plotly.express as px
+import plotly.graph_objects as go
+```
 
 ### References: 
 
