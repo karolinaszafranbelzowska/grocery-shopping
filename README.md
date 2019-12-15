@@ -48,3 +48,5 @@
 20. https://plot.ly/python/histograms/
 
 21. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
+
+22. https://www.tastetomorrow.com/inspiration/how-to-benefit-from-the-instagrammable-food-trend/381/
