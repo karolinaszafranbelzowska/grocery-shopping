@@ -1,7 +1,7 @@
 # 'grocery-shopping'
 
 # This repository contains the Project 2019 for Module 'Programming for Data Analysis'.
-# Karolina Szafran-Belzowska, 2019-12-13
+# Karolina Szafran-Belzowska, 2019-12-15
 
 
 ### References: 
