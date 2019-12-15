@@ -50,3 +50,7 @@
 21. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
 
 22. https://www.tastetomorrow.com/inspiration/how-to-benefit-from-the-instagrammable-food-trend/381/
+
+23. https://www.natureswayfoods.com/discover/fresh-results/food-to-go/
+
+24. https://www.trendhunter.com/slideshow/chilled-snack
